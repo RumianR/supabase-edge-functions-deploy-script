@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Ignore supabase directories and files
+**/supabase/
+
+# Ignore temporary files and folders
+.temp/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Optional: Exclude npm debug logs
+npm-debug.log*
+
+# Optional: Exclude environment variables
+.env
