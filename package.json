@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "supabase": "^1.116.0"
+  }
+}
