@@ -59,10 +59,10 @@ npm install
 To deploy your edge functions, run the script with your Supabase project reference ID as an argument:
 
 ```sh
-node <SCRIPT_NAME>.js <PROJECT_REF>
+node deployEdgeFunctions.js <PROJECT_REF>
 ```
 
-Replace `<SCRIPT_NAME>` with the name of the main script file (if it's not already specified) and `<PROJECT_REF>` with your Supabase project reference ID.
+Replace `<PROJECT_REF>` with your Supabase project reference ID.
 
 ## Note
 
